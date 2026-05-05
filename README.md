@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**TusharKoli8/TusharKoli8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I am an Engineering student passionate about AI, Data Science, and Software Development. I enjoy building real-world projects and solving practical problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+
+- AI Projects
+- Data Science Projects
+- Full Stack Development
+
+### Tech Stack
+
+- Python
+- SQL
+- Machine Learning
+- Git & GitHub
+- Streamlit
+- LangChain
+
+### Featured Projects
+
+- Transformer Paper RAG
+- Finance Chatbot
+- Data Visualization Projects
+
