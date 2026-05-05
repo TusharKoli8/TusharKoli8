@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am an Engineering student passionate about AI, Data Science, and Software Development. I enjoy building real-world projects and solving practical problems through technology.
+I am a Computer Engineering student passionate about AI, Data Science, and Software Development. I enjoy building real-world projects and solving practical problems through technology.
 
 ### Currently Working On
 
