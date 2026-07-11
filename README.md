@@ -26,11 +26,11 @@
 
 - 🏥 MEDAssist AI — Multi-agent hospital AI system (LangGraph + RAG + MCP), deployed on Azure Container Apps
   
--    DevSquad-Agent — Multi-agent developer productivity automation
+- * DevSquad-Agent — Multi-agent developer productivity automation
   
 - 🩺 WHO AI Assistant (RAG) — Health query assistant on WHO data
   
--    LangChain + Groq Chatbot — Low-latency conversational AI
+- * LangChain + Groq Chatbot — Low-latency conversational AI
     
 
 ### 🔭 Currently Exploring
