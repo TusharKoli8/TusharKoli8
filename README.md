@@ -1,8 +1,12 @@
 Hi there 👋 I'm Tushar Koli
 
+
 🎓 B.Tech (Electronics & Computer Engineering) Graduate, DBATU University
+
 🚀 Generative AI Engineer Intern @ IntelliBI Innovations, Pune
+
 🧠 Building and deploying multi-agent AI systems, RAG pipelines, and LLM-powered applications
+
 
 🛠️ Tech Stack
 
