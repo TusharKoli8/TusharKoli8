@@ -31,7 +31,7 @@
 - 🩺 WHO AI Assistant (RAG) — Health query assistant on WHO data
   
 -    LangChain + Groq Chatbot — Low-latency conversational AI
--    
+    
 
 ### 🔭 Currently Exploring
 
