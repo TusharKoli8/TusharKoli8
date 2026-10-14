@@ -11,11 +11,17 @@
 ### 🛠️ Tech Stack
 
 **Languages:** Python · SQL
+
 **GenAI & Agents:** LangChain · LangGraph · RAG · MCP · Groq · OpenAI · Gemini
+
 **ML/DL:** Scikit-learn · TensorFlow · PyTorch
+
 **Vector DBs:** FAISS · Pinecone · Chroma
+
 **Backend:** FastAPI · Streamlit · REST APIs
+
 **DevOps & Cloud:** Docker · GitHub Actions · Azure (Container Apps, ACR) · Linux/Bash
+
 **Tools:** Git & GitHub
 
 ### 📌 Featured Projects
