@@ -3,7 +3,9 @@
 **Software & AI Engineer** building systems that ship, from architecture and evaluation to containerized, cloud-deployed applications.
 
 🎓 B.Tech in Electronics & Computer Engineering, DBATU
+
 💼 Previously GenAI Engineer Intern @ IntelliBI Innovations, Pune
+
 ⚙️ Multi-agent AI systems · RAG pipelines · LLM-powered apps · Docker & Azure deployments
 
 ### 🛠️ Tech Stack
